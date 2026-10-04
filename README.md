@@ -143,33 +143,6 @@ medical-insurance-cost-prediction/
 
 ---
 
-## Screenshots
-
-### GitHub repository
-![GitHub repository](docs/screenshots/01_github_repo.png)
-
-### README on GitHub
-![README on GitHub](docs/screenshots/02_readme.png)
-
-### Deployed application
-![Deployed Streamlit app](docs/screenshots/03_deployed_app.png)
-
-### Working prediction
-![Working prediction result](docs/screenshots/04_working_prediction.png)
-
-### Final project structure
-![Project structure](docs/screenshots/05_project_structure.png)
-
-| Required proof | File |
-|---|---|
-| GitHub repository | `docs/screenshots/01_github_repo.png` |
-| README on GitHub | `docs/screenshots/02_readme.png` |
-| Deployed application | `docs/screenshots/03_deployed_app.png` |
-| Working prediction | `docs/screenshots/04_working_prediction.png` |
-| Final project structure | `docs/screenshots/05_project_structure.png` |
-
-**GitHub repository:** https://github.com/MUHAMMADSAFIULLAH6747/medical-insurance-cost-prediction  
-
 **Live app (local):** `http://localhost:8501`  
 **Live app (cloud):** _deploy via [Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=MUHAMMADSAFIULLAH6747%2Fmedical-insurance-cost-prediction&branch=main&mainModule=app.py) and paste the `.streamlit.app` URL here_
 
