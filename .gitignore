@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets / local
+.env
+.env.*
+*.pem
+
+# Temp extraction artifacts (keep source docs outside this folder)
+*.tmp
+cell_*.txt

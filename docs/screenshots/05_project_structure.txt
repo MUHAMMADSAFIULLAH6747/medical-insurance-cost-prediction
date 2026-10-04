@@ -1,0 +1,40 @@
+﻿Folder PATH listing
+Volume serial number is BAAF-0FDD
+C:.
+|   .gitignore
+|   app.py
+|   README.md
+|   requirements.txt
+|   
++---.streamlit
+|       config.toml
+|       
++---data
+|   \---raw
+|           insurance.csv
+|           
++---docs
+|   |   DOCUMENTATION.md
+|   |   
+|   +---figures
+|   |       evaluation_plots.png
+|   |       
+|   \---screenshots
+|           05_project_structure.txt
+|           README.md
+|           
++---models
+|       insurance_cost_model.joblib
+|       metrics.json
+|       
+\---src
+    |   download_data.py
+    |   preprocess.py
+    |   train_model.py
+    |   __init__.py
+    |   
+    \---__pycache__
+            download_data.cpython-314.pyc
+            preprocess.cpython-314.pyc
+            __init__.cpython-314.pyc
+            
