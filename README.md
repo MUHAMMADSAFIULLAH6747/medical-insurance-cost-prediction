@@ -2,7 +2,7 @@
 
 End-to-end machine learning project that predicts annual medical insurance charges (USD) from age, BMI, smoking status, dependents, gender, and U.S. region.
 
-**Phase 8 — Documentation & Deployment**
+
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/Model-Linear%20Regression-orange)](https://scikit-learn.org/)
