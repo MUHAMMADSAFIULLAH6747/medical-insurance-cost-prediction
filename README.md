@@ -145,6 +145,12 @@ medical-insurance-cost-prediction/
 
 ## Screenshots
 
+### GitHub repository
+![GitHub repository](docs/screenshots/01_github_repo.png)
+
+### README on GitHub
+![README on GitHub](docs/screenshots/02_readme.png)
+
 ### Deployed application
 ![Deployed Streamlit app](docs/screenshots/03_deployed_app.png)
 

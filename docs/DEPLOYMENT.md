@@ -44,7 +44,9 @@ Open: `http://localhost:8501`
 - [x] Reproducible project structure
 - [x] Trained model + metrics artifacts
 - [x] Streamlit prediction app
-- [x] Screenshots: deployed app, working prediction, project structure
-- [ ] GitHub repository screenshot
-- [ ] README-on-GitHub screenshot
-- [ ] Cloud deployment URL in README
+- [x] GitHub repository published
+- [x] Screenshots: GitHub repo, README, app, working prediction, structure
+- [ ] Streamlit Community Cloud authorization + public `.streamlit.app` URL
+
+One-click deploy (after signing into Streamlit with GitHub):
+https://share.streamlit.io/deploy?repository=MUHAMMADSAFIULLAH6747%2Fmedical-insurance-cost-prediction&branch=main&mainModule=app.py

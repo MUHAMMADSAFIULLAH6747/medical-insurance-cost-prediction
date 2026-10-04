@@ -126,12 +126,13 @@ Then encodes inputs exactly like training and returns estimated USD charges.
 streamlit run app.py
 ```
 
-### Example test cases
+### Example test cases (trained model)
 
-| Case | Age | BMI | Children | Smoker | Region | Expected behavior |
+| Case | Age | BMI | Children | Smoker | Region | Predicted cost |
 |---|---|---|---|---|---|---|
-| Low risk | 30 | 25.0 | 0 | no | southeast | Relatively low estimate |
-| High risk | 45 | 32.0 | 2 | yes | northwest | Much higher estimate (smoker effect) |
+| Low risk | 30 | 25.0 | 0 | no | southeast | **$3,380.74** |
+| High risk | 45 | 32.0 | 2 | yes | northwest | **$33,925.76** |
+| App demo | 30 | 25.0 | 0 | no | northeast | **$4,219.66** |
 
 ## 8. Limitations
 
